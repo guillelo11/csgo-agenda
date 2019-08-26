@@ -1,0 +1,4324 @@
+[
+    {
+        "begin_at": "2019-08-23T22:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7964,
+                "length": null,
+                "match_id": 548101,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548101,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": "https://www.twitch.tv/starladder_cs_en2",
+        "match_type": "best_of",
+        "modified_at": "2019-08-23T22:25:02Z",
+        "name": "Round 2 Match 8: Grayhound vs forZe",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3258,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3258/GRAYHOUND.png",
+                    "name": "Grayhound",
+                    "slug": "grayhound"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 60201,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/60201/FORZE.png",
+                    "name": "forZe",
+                    "slug": "forze"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 60201
+            },
+            {
+                "score": 0,
+                "team_id": 3258
+            }
+        ],
+        "scheduled_at": "2019-08-23T22:20:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-23-f43bd75d-571f-4ed8-91ca-1b2dfe615e30",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-23T22:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7963,
+                "length": null,
+                "match_id": 548100,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548100,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": "https://www.twitch.tv/starladder_cs_en",
+        "match_type": "best_of",
+        "modified_at": "2019-08-23T22:14:13Z",
+        "name": "Round 2 Match 7: FURIA vs CR4ZY",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "",
+                    "id": 124530,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/124530/8297.png",
+                    "name": "FURIA",
+                    "slug": "furia"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 126077,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/126077/cr4zy.png",
+                    "name": "CR4ZY",
+                    "slug": "cr4zy"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 126077
+            },
+            {
+                "score": 0,
+                "team_id": 124530
+            }
+        ],
+        "scheduled_at": "2019-08-23T22:30:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-23-aab2ed89-f252-4ccb-99b5-8fa4ea32307a",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T11:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7966,
+                "length": null,
+                "match_id": 548103,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548103,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-23T21:00:54Z",
+        "name": "Round 3 Match 4: TBD vs TBD",
+        "number_of_games": 1,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T11:00:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-c8027b4a-68a4-45f8-b904-fdb6044f73e2",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T11:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7965,
+                "length": null,
+                "match_id": 548102,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548102,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-23T21:00:56Z",
+        "name": "Round 3 Match 3: TBD vs TBD",
+        "number_of_games": 1,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T11:00:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-b3f68e55-ecae-42e3-96b3-78e66919aaae",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T12:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7968,
+                "length": null,
+                "match_id": 548105,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548105,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-23T21:00:53Z",
+        "name": "Round 3 Match 6: TBD vs TBD",
+        "number_of_games": 1,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T12:15:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-e02c28ff-59b7-414e-9290-958e20bf787c",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T12:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7967,
+                "length": null,
+                "match_id": 548104,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548104,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-23T21:00:57Z",
+        "name": "Round 3 Match 5: TBD vs TBD",
+        "number_of_games": 1,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T12:15:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-c3a54e9a-8364-4e76-b907-72aaf9308b83",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T13:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7972,
+                "length": null,
+                "match_id": 548107,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7973,
+                "length": null,
+                "match_id": 548107,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7974,
+                "length": null,
+                "match_id": 548107,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548107,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:32:38Z",
+        "name": "Round 3 Match 7: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T13:30:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-97ee7bd2-6064-4b5d-90fd-8ae8999884ce",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T13:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7969,
+                "length": null,
+                "match_id": 548106,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7970,
+                "length": null,
+                "match_id": 548106,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7971,
+                "length": null,
+                "match_id": 548106,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548106,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:32:45Z",
+        "name": "Round 3 Match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T13:30:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-be646a99-a7bb-4c5d-aa23-fe6f98850df0",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T16:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7978,
+                "length": null,
+                "match_id": 548109,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7979,
+                "length": null,
+                "match_id": 548109,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7980,
+                "length": null,
+                "match_id": 548109,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548109,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:12Z",
+        "name": "Round 3 Match 8: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T16:45:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-1cd242a5-9e07-41d6-b29c-c714f6a745b9",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-24T16:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7975,
+                "length": null,
+                "match_id": 548108,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7976,
+                "length": null,
+                "match_id": 548108,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7977,
+                "length": null,
+                "match_id": 548108,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548108,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:32:52Z",
+        "name": "Round 3 Match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-24T16:45:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-24-4166cf72-4ecb-4b2a-80ad-b1caf317f3e0",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-25T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7984,
+                "length": null,
+                "match_id": 548111,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7985,
+                "length": null,
+                "match_id": 548111,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7986,
+                "length": null,
+                "match_id": 548111,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548111,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:29Z",
+        "name": "Round 4 Match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-25T10:00:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-25-5b367d67-05e6-4e77-9f73-720497a8a55f",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-25T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7981,
+                "length": null,
+                "match_id": 548110,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7982,
+                "length": null,
+                "match_id": 548110,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7983,
+                "length": null,
+                "match_id": 548110,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548110,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:21Z",
+        "name": "Round 4 Match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-25T10:00:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-25-b152e2e8-351f-49b1-90c1-703f2a1b1e82",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-25T13:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7990,
+                "length": null,
+                "match_id": 548113,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7991,
+                "length": null,
+                "match_id": 548113,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7992,
+                "length": null,
+                "match_id": 548113,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548113,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:35Z",
+        "name": "Round 4 Match 4: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-25T13:15:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-25-d4e1109b-a165-44c6-944f-f189e2847424",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-25T13:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7987,
+                "length": null,
+                "match_id": 548112,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7988,
+                "length": null,
+                "match_id": 548112,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7989,
+                "length": null,
+                "match_id": 548112,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548112,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:42Z",
+        "name": "Round 4 Match 3: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-25T13:15:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-25-54634e7d-7f89-4716-8cac-dedd847b3531",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-25T16:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7996,
+                "length": null,
+                "match_id": 548115,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7997,
+                "length": null,
+                "match_id": 548115,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7998,
+                "length": null,
+                "match_id": 548115,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548115,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:48Z",
+        "name": "Round 4 Match 6: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-25T16:30:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-25-a22b958a-4f05-48f5-bbf7-d4521c1a7da3",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-25T16:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7993,
+                "length": null,
+                "match_id": 548114,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7994,
+                "length": null,
+                "match_id": 548114,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7995,
+                "length": null,
+                "match_id": 548114,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548114,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:53Z",
+        "name": "Round 4 Match 5: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-25T16:30:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-25-246f00af-7187-44c3-bd8f-243755f2f422",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-26T10:00:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7999,
+                "length": null,
+                "match_id": 548116,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8000,
+                "length": null,
+                "match_id": 548116,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8001,
+                "length": null,
+                "match_id": 548116,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548116,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:33:59Z",
+        "name": "Round 5 Match 1: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-26T10:00:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-26",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-26T13:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8002,
+                "length": null,
+                "match_id": 548117,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8003,
+                "length": null,
+                "match_id": 548117,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8004,
+                "length": null,
+                "match_id": 548117,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548117,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:34:05Z",
+        "name": "Round 5 Match 2: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-26T13:15:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-26-1904214b-5e40-40aa-b4da-327ae762b547",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-08-26T16:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8005,
+                "length": null,
+                "match_id": 548118,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8006,
+                "length": null,
+                "match_id": 548118,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 8007,
+                "length": null,
+                "match_id": 548118,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 548118,
+        "league": {
+            "id": 4235,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4235/600px-Starladder_Logo.png",
+            "live_supported": false,
+            "modified_at": "2019-07-10T16:07:48Z",
+            "name": "StarLadder",
+            "slug": "cs-go-starladder-major",
+            "url": null
+        },
+        "league_id": 4235,
+        "live": {
+            "opens_at": null,
+            "supported": false,
+            "url": null
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-17T21:34:12Z",
+        "name": "Round 5 Match 3: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-08-26T16:30:00Z",
+        "serie": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Major - berlin 2019",
+            "id": 1824,
+            "league_id": 4235,
+            "modified_at": "2019-08-17T17:47:14Z",
+            "name": "Major - Berlin",
+            "prizepool": null,
+            "season": null,
+            "slug": "cs-go-starladder-major-major-berlin-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1824,
+        "slug": "2019-08-26-f0140b9d-a0c0-4339-8db1-969d1a2b411e",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-08-23T10:00:00Z",
+            "end_at": "2019-08-27T18:00:00Z",
+            "id": 2484,
+            "league_id": 4235,
+            "modified_at": "2019-08-23T15:05:08Z",
+            "name": "New challengers stage",
+            "prizepool": null,
+            "serie_id": 1824,
+            "slug": "cs-go-starladder-major-major-berlin-2019-new-challengers-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2484,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-13T11:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7921,
+                "length": null,
+                "match_id": 547934,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7922,
+                "length": null,
+                "match_id": 547934,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7923,
+                "length": null,
+                "match_id": 547934,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547934,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-13T11:00:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547934"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:02:15Z",
+        "name": "forZe vs AVANGAR",
+        "number_of_games": 3,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 60201,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/60201/FORZE.png",
+                    "name": "forZe",
+                    "slug": "forze"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3274,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3274/AVANGAR.png",
+                    "name": "AVANGAR",
+                    "slug": "avangar-cs-go"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 60201
+            },
+            {
+                "score": 0,
+                "team_id": 3274
+            }
+        ],
+        "scheduled_at": "2019-09-13T11:15:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "forze-vs-avangar-2019-09-13",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T11:15:00Z",
+            "end_at": "2019-09-13T14:15:00Z",
+            "id": 2503,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:17:51Z",
+            "name": "Play-in",
+            "prizepool": null,
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-play-in",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2503,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-13T17:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7926,
+                "length": null,
+                "match_id": 547937,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547937,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-13T17:30:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547937"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:07:04Z",
+        "name": "NiP vs TBD",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "",
+                    "id": 3218,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3218/NINJAS_IN_PYJAMAS.png",
+                    "name": "NiP",
+                    "slug": "nip"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3218
+            }
+        ],
+        "scheduled_at": "2019-09-13T17:45:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "nip-2019-09-13",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-13T17:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7925,
+                "length": null,
+                "match_id": 547936,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547936,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-13T17:30:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547936"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:06:47Z",
+        "name": "Natus Vincere vs MIBR",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3216,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3216/NATUS_VINCERE.png",
+                    "name": "Natus Vincere",
+                    "slug": "natus-vincere-cs-go"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3250,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3250/MIBR.png",
+                    "name": "MIBR",
+                    "slug": "mibr"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3250
+            },
+            {
+                "score": 0,
+                "team_id": 3216
+            }
+        ],
+        "scheduled_at": "2019-09-13T17:45:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "natus-vincere-vs-mibr-2019-09-13",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-13T17:45:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7924,
+                "length": null,
+                "match_id": 547935,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547935,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-13T17:30:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547935"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:06:22Z",
+        "name": "ENCE vs Vitality",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3251,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3251/ENCE_ESPORT.png",
+                    "name": "ENCE",
+                    "slug": "ence"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3455,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3455/VITALITY.png",
+                    "name": "Vitality",
+                    "slug": "vitality-cs-go"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3455
+            },
+            {
+                "score": 0,
+                "team_id": 3251
+            }
+        ],
+        "scheduled_at": "2019-09-13T17:45:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "ence-vs-vitality-2019-09-13",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-13T19:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7929,
+                "length": null,
+                "match_id": 547940,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547940,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-13T19:00:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547940"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:08:03Z",
+        "name": "Natus Vincere vs ENCE",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3216,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3216/NATUS_VINCERE.png",
+                    "name": "Natus Vincere",
+                    "slug": "natus-vincere-cs-go"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3251,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3251/ENCE_ESPORT.png",
+                    "name": "ENCE",
+                    "slug": "ence"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3251
+            },
+            {
+                "score": 0,
+                "team_id": 3216
+            }
+        ],
+        "scheduled_at": "2019-09-13T19:15:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "natus-vincere-vs-ence-2019-09-13",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-13T19:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7928,
+                "length": null,
+                "match_id": 547939,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547939,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-13T19:00:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547939"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:07:44Z",
+        "name": "NiP vs MIBR",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "",
+                    "id": 3218,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3218/NINJAS_IN_PYJAMAS.png",
+                    "name": "NiP",
+                    "slug": "nip"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3250,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3250/MIBR.png",
+                    "name": "MIBR",
+                    "slug": "mibr"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3250
+            },
+            {
+                "score": 0,
+                "team_id": 3218
+            }
+        ],
+        "scheduled_at": "2019-09-13T19:15:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "nip-vs-mibr-2019-09-13",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-13T19:15:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7927,
+                "length": null,
+                "match_id": 547938,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547938,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-13T19:00:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547938"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:07:26Z",
+        "name": "Vitality vs TBD",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3455,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3455/VITALITY.png",
+                    "name": "Vitality",
+                    "slug": "vitality-cs-go"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3455
+            }
+        ],
+        "scheduled_at": "2019-09-13T19:15:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "vitality-2019-09-13",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T10:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7932,
+                "length": null,
+                "match_id": 547943,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547943,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T10:15:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547943"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:09:10Z",
+        "name": "Vitality vs NiP",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3455,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3455/VITALITY.png",
+                    "name": "Vitality",
+                    "slug": "vitality-cs-go"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "",
+                    "id": 3218,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3218/NINJAS_IN_PYJAMAS.png",
+                    "name": "NiP",
+                    "slug": "nip"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3455
+            },
+            {
+                "score": 0,
+                "team_id": 3218
+            }
+        ],
+        "scheduled_at": "2019-09-14T10:30:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "vitality-vs-nip-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T10:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7931,
+                "length": null,
+                "match_id": 547942,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547942,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T10:15:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547942"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:08:50Z",
+        "name": "ENCE vs MIBR",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3251,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3251/ENCE_ESPORT.png",
+                    "name": "ENCE",
+                    "slug": "ence"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3250,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3250/MIBR.png",
+                    "name": "MIBR",
+                    "slug": "mibr"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3251
+            },
+            {
+                "score": 0,
+                "team_id": 3250
+            }
+        ],
+        "scheduled_at": "2019-09-14T10:30:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "ence-vs-mibr-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T10:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7930,
+                "length": null,
+                "match_id": 547941,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547941,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T10:15:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547941"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:08:29Z",
+        "name": "Natus Vincere vs TBD",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3216,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3216/NATUS_VINCERE.png",
+                    "name": "Natus Vincere",
+                    "slug": "natus-vincere-cs-go"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3216
+            }
+        ],
+        "scheduled_at": "2019-09-14T10:30:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "natus-vincere-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T11:50:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7935,
+                "length": null,
+                "match_id": 547946,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547946,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T11:35:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547946"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:10:07Z",
+        "name": "NiP vs ENCE",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": "",
+                    "id": 3218,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3218/NINJAS_IN_PYJAMAS.png",
+                    "name": "NiP",
+                    "slug": "nip"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3251,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3251/ENCE_ESPORT.png",
+                    "name": "ENCE",
+                    "slug": "ence"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3251
+            },
+            {
+                "score": 0,
+                "team_id": 3218
+            }
+        ],
+        "scheduled_at": "2019-09-14T11:50:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "nip-vs-ence-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T11:50:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7934,
+                "length": null,
+                "match_id": 547945,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547945,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T11:35:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547945"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:09:46Z",
+        "name": "Natus Vincere vs Vitality",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3216,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3216/NATUS_VINCERE.png",
+                    "name": "Natus Vincere",
+                    "slug": "natus-vincere-cs-go"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3455,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3455/VITALITY.png",
+                    "name": "Vitality",
+                    "slug": "vitality-cs-go"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3455
+            },
+            {
+                "score": 0,
+                "team_id": 3216
+            }
+        ],
+        "scheduled_at": "2019-09-14T11:50:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "natus-vincere-vs-vitality-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T11:50:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7933,
+                "length": null,
+                "match_id": 547944,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547944,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T11:35:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547944"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:09:29Z",
+        "name": "MIBR vs TBD",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3250,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3250/MIBR.png",
+                    "name": "MIBR",
+                    "slug": "mibr"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3250
+            }
+        ],
+        "scheduled_at": "2019-09-14T11:50:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "mibr-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T13:10:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7938,
+                "length": null,
+                "match_id": 547949,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547949,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T12:55:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547949"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:11:01Z",
+        "name": "Natus Vincere vs NiP",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3216,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3216/NATUS_VINCERE.png",
+                    "name": "Natus Vincere",
+                    "slug": "natus-vincere-cs-go"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": "",
+                    "id": 3218,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3218/NINJAS_IN_PYJAMAS.png",
+                    "name": "NiP",
+                    "slug": "nip"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3218
+            },
+            {
+                "score": 0,
+                "team_id": 3216
+            }
+        ],
+        "scheduled_at": "2019-09-14T13:10:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "natus-vincere-vs-nip-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T13:10:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7937,
+                "length": null,
+                "match_id": 547948,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547948,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T12:55:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547948"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:10:45Z",
+        "name": "Vitality vs MIBR",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3455,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3455/VITALITY.png",
+                    "name": "Vitality",
+                    "slug": "vitality-cs-go"
+                },
+                "type": "Team"
+            },
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3250,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3250/MIBR.png",
+                    "name": "MIBR",
+                    "slug": "mibr"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3455
+            },
+            {
+                "score": 0,
+                "team_id": 3250
+            }
+        ],
+        "scheduled_at": "2019-09-14T13:10:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "vitality-vs-mibr-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T13:10:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7936,
+                "length": null,
+                "match_id": 547947,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547947,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T12:55:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547947"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-16T06:10:27Z",
+        "name": "ENCE vs TBD",
+        "number_of_games": 1,
+        "opponents": [
+            {
+                "opponent": {
+                    "acronym": null,
+                    "id": 3251,
+                    "image_url": "https://cdn.pandascore.co/images/team/image/3251/ENCE_ESPORT.png",
+                    "name": "ENCE",
+                    "slug": "ence"
+                },
+                "type": "Team"
+            }
+        ],
+        "results": [
+            {
+                "score": 0,
+                "team_id": 3251
+            }
+        ],
+        "scheduled_at": "2019-09-14T13:10:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "ence-2019-09-14",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "end_at": "2019-09-14T14:10:00Z",
+            "id": 2504,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:16:43Z",
+            "name": "Group stage",
+            "prizepool": "55000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-group-stage",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2504,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    },
+    {
+        "begin_at": "2019-09-14T15:30:00Z",
+        "detailed_stats": true,
+        "draw": false,
+        "end_at": null,
+        "forfeit": false,
+        "games": [
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7939,
+                "length": null,
+                "match_id": 547950,
+                "position": 1,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7940,
+                "length": null,
+                "match_id": 547950,
+                "position": 2,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            },
+            {
+                "begin_at": null,
+                "detailed_stats": true,
+                "end_at": null,
+                "finished": false,
+                "forfeit": false,
+                "id": 7941,
+                "length": null,
+                "match_id": 547950,
+                "position": 3,
+                "status": "not_started",
+                "video_url": null,
+                "winner": {
+                    "id": null,
+                    "type": "Team"
+                },
+                "winner_type": "Team"
+            }
+        ],
+        "id": 547950,
+        "league": {
+            "id": 4150,
+            "image_url": "https://cdn.pandascore.co/images/league/image/4150/800px-BLAST_Pro_Series.png",
+            "live_supported": true,
+            "modified_at": "2019-02-22T12:33:28Z",
+            "name": "BLAST Pro Series",
+            "slug": "cs-go-blast-pro-series",
+            "url": null
+        },
+        "league_id": 4150,
+        "live": {
+            "opens_at": "2019-09-14T15:15:00Z",
+            "supported": true,
+            "url": "wss://live.pandascore.co/matches/547950"
+        },
+        "live_url": null,
+        "match_type": "best_of",
+        "modified_at": "2019-08-23T09:22:31Z",
+        "name": "Grand Final: TBD vs TBD",
+        "number_of_games": 3,
+        "opponents": [],
+        "results": [],
+        "scheduled_at": "2019-09-14T15:30:00Z",
+        "serie": {
+            "begin_at": "2019-09-13T17:45:00Z",
+            "description": null,
+            "end_at": null,
+            "full_name": "Moscow 2019",
+            "id": 1833,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T05:59:58Z",
+            "name": "Moscow",
+            "prizepool": "250000 United States Dollar",
+            "season": null,
+            "slug": "cs-go-blast-pro-series-moscow-2019",
+            "winner_id": null,
+            "winner_type": null,
+            "year": 2019
+        },
+        "serie_id": 1833,
+        "slug": "2019-09-14-30afd5b3-a499-4c27-b78c-b60f71dc325f",
+        "status": "not_started",
+        "tournament": {
+            "begin_at": "2019-09-14T15:30:00Z",
+            "end_at": "2019-09-14T18:30:00Z",
+            "id": 2505,
+            "league_id": 4150,
+            "modified_at": "2019-08-16T06:17:30Z",
+            "name": "Grand final",
+            "prizepool": "175000 United States Dollar",
+            "serie_id": 1833,
+            "slug": "cs-go-blast-pro-series-moscow-2019-grand-final",
+            "winner_id": null,
+            "winner_type": null
+        },
+        "tournament_id": 2505,
+        "videogame": {
+            "id": 3,
+            "name": "CS:GO",
+            "slug": "cs-go"
+        },
+        "videogame_version": null,
+        "winner": null,
+        "winner_id": null
+    }
+]
